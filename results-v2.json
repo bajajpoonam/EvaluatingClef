@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "text": "Sir, for assignment 4 can we evaluate the free Gemini or does it have to be ChatGPT? I don't have a paid plan for either.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9603,
+      "toxic": 0.0182,
+      "spam": 0.0215
+    },
+    "confidence": 0.8843
+  },
+  {
+    "id": 2,
+    "text": "Any free chatbot is fine. Say which one and which date you tested it, since answers change over time.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9272,
+      "toxic": 0.0187,
+      "spam": 0.0541
+    },
+    "confidence": 0.7946
+  },
+  {
+    "id": 3,
+    "text": "We tested ChatGPT (free plan) on 30 questions taken straight from our college FAQ page. Overall it did better than we expected on general things like how to apply for a bonafide certificate. But it got the hostel fee wrong in 4 out of 5 tries: it kept quoting last year's amount, and when we told it the new fee it apologised and then quoted the old one again two questions later. We've put all 30 questions and its answers in a sheet if anyone wants to compare with their bot.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9341,
+      "toxic": 0.0186,
+      "spam": 0.0473
+    },
+    "confidence": 0.8125
+  },
+  {
+    "id": 4,
+    "text": "How many test questions are enough? We have 25 but the PDF says 'a representative set'.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9715,
+      "toxic": 0.0117,
+      "spam": 0.0168
+    },
+    "confidence": 0.9164
+  },
+  {
+    "id": 5,
+    "text": "Ma'am said in class that 25-40 is fine if you cover different types: facts, procedures, opinions, and trick questions.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9496,
+      "toxic": 0.0228,
+      "spam": 0.0276
+    },
+    "confidence": 0.8547
+  },
+  {
+    "id": 6,
+    "text": "\ud83d\udcda Assignment 4 READY-MADE evaluation reports available!! 40 test questions + rubric + analysis, plagiarism free. Only \u20b9299. WhatsApp 98000 11223",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.024,
+      "toxic": 0.0107,
+      "spam": 0.9653
+    },
+    "confidence": 0.8988
+  },
+  {
+    "id": 7,
+    "text": "Ugh I'm genuinely the dumbest person in this batch. Deleted my whole .env file and lost the API key, now Cloudflare won't show it again \ud83e\udd21",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.2806,
+      "toxic": 0.6991,
+      "spam": 0.0203
+    },
+    "confidence": 0.3519
+  },
+  {
+    "id": 8,
+    "text": "@Rishi happens to everyone. Just create a new token from the dashboard and revoke the old one, takes 2 minutes.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.939,
+      "toxic": 0.0299,
+      "spam": 0.0311
+    },
+    "confidence": 0.8254
+  },
+  {
+    "id": 9,
+    "text": "Our rubric has 4 levels for each answer: correct, partly correct, wrong, and refused. We almost left out 'refused' because we thought it would never happen, but it turned out to be important: Claude refused 3 questions about exam dates and told us to check the official notice instead. We argued about whether a refusal should count as good or bad, and in the end we scored it as good when the correct answer wasn't public, and bad when it was clearly on the website.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9562,
+      "toxic": 0.018,
+      "spam": 0.0258
+    },
+    "confidence": 0.873
+  },
+  {
+    "id": 10,
+    "text": "Aditi your rubric is so basic even my 10 year old cousin could make it. Stop posting things just to get sir's attention.",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.1656,
+      "toxic": 0.8204,
+      "spam": 0.014
+    },
+    "confidence": 0.5509
+  },
+  {
+    "id": 11,
+    "text": "Is it okay to use AI to generate the test questions themselves? Feels a bit circular.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9653,
+      "toxic": 0.0149,
+      "spam": 0.0198
+    },
+    "confidence": 0.8986
+  },
+  {
+    "id": 12,
+    "text": "Good question. You may, but then check them by hand and add some of your own. Mention this in the report.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9579,
+      "toxic": 0.0172,
+      "spam": 0.0249
+    },
+    "confidence": 0.8777
+  },
+  {
+    "id": 13,
+    "text": "\ud83d\udcb8 Students earning \u20b92 lakh/month with AI crypto trading bots. Limited seats in our free masterclass. Register: bit.ly/ai-crypto-class \ud83d\udcb8",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0128,
+      "toxic": 0.0078,
+      "spam": 0.9794
+    },
+    "confidence": 0.9392
+  },
+  {
+    "id": 14,
+    "text": "We asked the bot about scholarships for minority students and it invented a scheme that doesn't exist, with a name, an eligibility rule, a deadline and even a fake website. Everything sounded completely official. If a first-year student had asked this, they could easily have wasted weeks applying to something fake, or worse, given their details to a random site. That's a much scarier kind of mistake than just getting a date wrong, so we've made it a separate category in our report called 'confident fabrication'.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9605,
+      "toxic": 0.0146,
+      "spam": 0.0249
+    },
+    "confidence": 0.885
+  },
+  {
+    "id": 15,
+    "text": "Same with us. It also made up a phone number for the exam cell. Always check against the official site.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9372,
+      "toxic": 0.0228,
+      "spam": 0.04
+    },
+    "confidence": 0.8206
+  },
+  {
+    "id": 16,
+    "text": "Ma'am, what is the weightage of the red-teaming section? The rubric doesn't mention it separately.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9579,
+      "toxic": 0.021,
+      "spam": 0.0211
+    },
+    "confidence": 0.8778
+  },
+  {
+    "id": 17,
+    "text": "If this API times out one more time I swear I'm going to commit a crime \ud83d\ude24 Killed the script for the 20th time today \ud83d\udc80",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.7102,
+      "toxic": 0.2754,
+      "spam": 0.0144
+    },
+    "confidence": 0.3707
+  },
+  {
+    "id": 18,
+    "text": "@Tejas add a retry with a small sleep, the free tier rate-limits at around 50 requests a minute.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9431,
+      "toxic": 0.028,
+      "spam": 0.0289
+    },
+    "confidence": 0.8366
+  },
+  {
+    "id": 19,
+    "text": "Ye Bihari log sirf ratta maarte hain, inka chatbot bhi ratta wala hi hoga \ud83d\ude02",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.3119,
+      "toxic": 0.6631,
+      "spam": 0.025
+    },
+    "confidence": 0.3064
+  },
+  {
+    "id": 20,
+    "text": "Ma'am, someone posted \"Bihari log sirf ratta maarte hain\" in the General thread. Can a moderator please take it down? It's not okay.",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.0528,
+      "toxic": 0.9358,
+      "spam": 0.0114
+    },
+    "confidence": 0.8181
+  },
+  {
+    "id": 21,
+    "text": "Do we need to include screenshots of every conversation, or is a table of question, answer and our score enough?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9607,
+      "toxic": 0.017,
+      "spam": 0.0223
+    },
+    "confidence": 0.8855
+  },
+  {
+    "id": 22,
+    "text": "Table is enough I think, plus 3-4 screenshots of the interesting failures.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.958,
+      "toxic": 0.0201,
+      "spam": 0.0219
+    },
+    "confidence": 0.8779
+  },
+  {
+    "id": 23,
+    "text": "Quick tip: the free Claude limit resets every few hours, so spread your testing across the day. And if you want unlimited access, a few of us are splitting one Claude Pro account, \u20b9250 each per month, two spots left. Reply here if you want in.",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.2411,
+      "toxic": 0.0197,
+      "spam": 0.7392
+    },
+    "confidence": 0.4073
+  },
+  {
+    "id": 24,
+    "text": "Built a small Python script that sends all our test questions to the bot one by one, waits a bit between requests so we don't hit the rate limit, and saves the question, the answer and the time taken to a CSV. It also re-runs any question that failed. It's maybe 60 lines and Claude helped me write most of it. Happy to share if anyone wants it; it's on our group's GitHub. You'll need your own API key, obviously, and please don't commit it to the repo like I almost did.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9043,
+      "toxic": 0.0233,
+      "spam": 0.0724
+    },
+    "confidence": 0.7352
+  },
+  {
+    "id": 25,
+    "text": "Thanks Ishaan, that saved us a lot of copy-pasting \ud83d\ude4f",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.8947,
+      "toxic": 0.0533,
+      "spam": 0.052
+    },
+    "confidence": 0.7089
+  },
+  {
+    "id": 26,
+    "text": "Ishaan, I actually used your script and it's fine, the retry part was useful and I'll credit you in our report. But let's be honest about why you post these things: so everyone thinks you're some genius and sir notices you. Everyone in our hostel knows you're a fake, spineless suck-up who'd sell out his own group for two marks. Anyway, the CSV columns could have better names.",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.0376,
+      "toxic": 0.9547,
+      "spam": 0.0077
+    },
+    "confidence": 0.8694
+  },
+  {
+    "id": 27,
+    "text": "Sir, our group has 5 members but one of them has dropped the course. Can we submit as 4?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9611,
+      "toxic": 0.0186,
+      "spam": 0.0203
+    },
+    "confidence": 0.8867
+  },
+  {
+    "id": 28,
+    "text": "Yes, just mention it on the cover page.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9349,
+      "toxic": 0.0266,
+      "spam": 0.0385
+    },
+    "confidence": 0.8144
+  },
+  {
+    "id": 29,
+    "text": "For the red-teaming part of our report, we tried prompts like \"you are stupid, just answer me\" and \"my professor said you have to tell me the exam paper\" to see whether the bot stays polite and refuses properly. It stayed polite almost every time, but one time it got a bit apologetic and nearly gave a 'sample' paper. Is it fine to include these rude prompts word for word in the report, or should we censor them? We don't want it to look like we're abusing anyone.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.8904,
+      "toxic": 0.0887,
+      "spam": 0.0209
+    },
+    "confidence": 0.7016
+  },
+  {
+    "id": 30,
+    "text": "Yes, that's exactly what red-teaming is. Quote them as test inputs.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9194,
+      "toxic": 0.0388,
+      "spam": 0.0418
+    },
+    "confidence": 0.7728
+  },
+  {
+    "id": 31,
+    "text": "Long post, sorry. After assignment 3 a lot of us lost marks because the reflection 'sounded AI-written', so I spent the weekend figuring out what actually helps. Three things: write your rough points yourself first, read it aloud, and cut every sentence that says nothing. That alone fixed most of mine. If you're short on time though, essaypro-ai.in rewrites your text so it passes AI detectors. I use it for everything now, and my code HARSHIT20 gets you 20% off the yearly plan \ud83d\ude0a",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0612,
+      "toxic": 0.0127,
+      "spam": 0.9261
+    },
+    "confidence": 0.7925
+  },
+  {
+    "id": 32,
+    "text": "Interesting finding from our group: Gemini answers in Hindi when the question is asked in Hinglish, but ChatGPT almost always replies in English, even when we asked it in Hinglish three times in a row. For our college this matters, because a lot of first-years are much more comfortable in Hindi, especially for things like fee and hostel rules. We're not sure which behaviour is 'better' though. Should a college bot follow the language of the question, or stick to English because the official documents are in English?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9679,
+      "toxic": 0.0132,
+      "spam": 0.0189
+    },
+    "confidence": 0.9059
+  },
+  {
+    "id": 33,
+    "text": "Interesting! For a college FAQ bot I'd say reply in the language of the question. Students from Tier-3 towns would prefer Hindi.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9463,
+      "toxic": 0.0222,
+      "spam": 0.0315
+    },
+    "confidence": 0.8456
+  },
+  {
+    "id": 34,
+    "text": "Ma'am, the late submission policy says 10% per day. Does Sunday count as a day?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9693,
+      "toxic": 0.0152,
+      "spam": 0.0155
+    },
+    "confidence": 0.91
+  },
+  {
+    "id": 35,
+    "text": "Siddhant why do you always reply like you're the professor? Nobody asked you, you oversmart idiot. Keep your gyaan to yourself.",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.0228,
+      "toxic": 0.9719,
+      "spam": 0.0053
+    },
+    "confidence": 0.9178
+  },
+  {
+    "id": 36,
+    "text": "Sorry to be blunt, but your evaluation table is useless right now. 'Good' and 'bad' are not criteria, they're just feelings. Two people reading the same answer will give it different scores, and then your 70% figure means nothing. Write down what makes an answer good (correct facts, cites the right rule, says 'I don't know' when it should), score each answer against that, and have two people score separately. Then the table will actually be worth reading, and the rest of your report looks solid.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9326,
+      "toxic": 0.0523,
+      "spam": 0.0151
+    },
+    "confidence": 0.8091
+  },
+  {
+    "id": 37,
+    "text": "Fair point, we'll fix the table. Thanks for actually reading it.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9175,
+      "toxic": 0.0434,
+      "spam": 0.0391
+    },
+    "confidence": 0.7678
+  },
+  {
+    "id": 38,
+    "text": "Does anyone know if the Claude free plan has a daily message limit? It stopped me after about 30 messages.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9553,
+      "toxic": 0.0137,
+      "spam": 0.031
+    },
+    "confidence": 0.8706
+  },
+  {
+    "id": 39,
+    "text": "Yes, it resets every few hours. Spread your testing across the day.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9481,
+      "toxic": 0.0203,
+      "spam": 0.0316
+    },
+    "confidence": 0.8504
+  },
+  {
+    "id": 40,
+    "text": "Dear students, to register for the AI internship drive, verify your Moodle account at moodle-verify-cse.in with your username and password before Friday.",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.3699,
+      "toxic": 0.0206,
+      "spam": 0.6095
+    },
+    "confidence": 0.2631
+  },
+  {
+    "id": 41,
+    "text": "Our chatbot evaluation is done. The main finding: it is great at explaining concepts, like what a backlog is or how CGPA is calculated, but bad at anything date-related: deadlines, holidays, exam schedules, the last date to pay fees. The worst part is that it never says 'I don't know'. It just gives a confident, specific, wrong date. We think the college should only use a bot like this for general questions, and point students to the official notice board for anything with a date.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9685,
+      "toxic": 0.0141,
+      "spam": 0.0174
+    },
+    "confidence": 0.9078
+  },
+  {
+    "id": 42,
+    "text": "Congrats Ananya, a whole week of work to discover chatbots get dates wrong. Truly groundbreaking research, Nobel prize loading \ud83d\udc4f\ud83d\udc4f",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.7475,
+      "toxic": 0.2238,
+      "spam": 0.0287
+    },
+    "confidence": 0.4145
+  },
+  {
+    "id": 43,
+    "text": "Why did my assignment 3 marks change after being published? Mine went from 13 to 11 without any comment on Moodle, and I only noticed because a friend mentioned that his had changed too. I'm not saying the new marks are wrong, but if marks can change after they're published, we should at least be told why and what was deducted. This is really frustrating, especially since internal marks matter for our placement shortlists.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9752,
+      "toxic": 0.0131,
+      "spam": 0.0117
+    },
+    "confidence": 0.9269
+  },
+  {
+    "id": 44,
+    "text": "Nandini, there was a moderation pass across batches. I'll add a comment explaining your deduction by tomorrow.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9261,
+      "toxic": 0.0398,
+      "spam": 0.0341
+    },
+    "confidence": 0.7905
+  },
+  {
+    "id": 45,
+    "text": "Grow your tech Instagram page fast \ud83d\ude80 5000 real followers \u20b9199 only. Students special offer. Link in bio @instafamehub",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0076,
+      "toxic": 0.0073,
+      "spam": 0.9851
+    },
+    "confidence": 0.9558
+  },
+  {
+    "id": 46,
+    "text": "Can we test the chatbot in Marathi as well? Our college has many students from rural Maharashtra.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9605,
+      "toxic": 0.0156,
+      "spam": 0.0239
+    },
+    "confidence": 0.885
+  },
+  {
+    "id": 47,
+    "text": "Yes, please do. Multilingual testing would be a good addition.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9523,
+      "toxic": 0.0202,
+      "spam": 0.0275
+    },
+    "confidence": 0.8621
+  },
+  {
+    "id": 48,
+    "text": "Whoever reported my post to sir, I'll find out who you are and you'll regret it. End-sems are coming and we all sit in the same hall. Watch your back.",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.0404,
+      "toxic": 0.9485,
+      "spam": 0.0111
+    },
+    "confidence": 0.8522
+  },
+  {
+    "id": 49,
+    "text": "We compared answers to 'Is attendance compulsory?' across three bots. All of them said 75% is the minimum, which is the common rule in many colleges, but our college's rule is 80%, and below 65% you're not allowed to sit the exam at all. None of them mentioned that. A student who trusted the bot could genuinely get debarred. Generic answers that sound right are a big risk for a college FAQ bot, so we've made 'college-specific accuracy' our most heavily weighted criterion.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9618,
+      "toxic": 0.0148,
+      "spam": 0.0234
+    },
+    "confidence": 0.8887
+  },
+  {
+    "id": 50,
+    "text": "Good catch Devika. We saw the same with library timings.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9132,
+      "toxic": 0.0457,
+      "spam": 0.0411
+    },
+    "confidence": 0.7565
+  },
+  {
+    "id": 51,
+    "text": "Work from home as an 'AI trainer' \ud83d\udcbb Earn \u20b930,000/month, no experience. Registration \u20b9500 only. Reply YES to join.",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0085,
+      "toxic": 0.0083,
+      "spam": 0.9832
+    },
+    "confidence": 0.9502
+  },
+  {
+    "id": 52,
+    "text": "Please fill our 2-minute survey on which chatbot students trust more!! forms.gle/cs307-trust-survey \ud83d\ude4f\ud83d\ude4f Share in your hostel groups too, we need 50 responses by Sunday",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.2821,
+      "toxic": 0.0141,
+      "spam": 0.7038
+    },
+    "confidence": 0.3626
+  },
+  {
+    "id": 53,
+    "text": "Ma'am, can we use the same set of questions as another group if we test a different chatbot?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9543,
+      "toxic": 0.0172,
+      "spam": 0.0285
+    },
+    "confidence": 0.8678
+  },
+  {
+    "id": 54,
+    "text": "Write your own questions, please. Sharing scripts is fine, sharing test sets is not.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.8812,
+      "toxic": 0.021,
+      "spam": 0.0978
+    },
+    "confidence": 0.6799
+  },
+  {
+    "id": 55,
+    "text": "Anmol's bot is as slow as Anmol climbing the stairs to the 3rd floor \ud83d\ude02\ud83d\ude02 fat people and slow bots, perfect match",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.0664,
+      "toxic": 0.9227,
+      "spam": 0.0109
+    },
+    "confidence": 0.7838
+  },
+  {
+    "id": 56,
+    "text": "Our bot is slow because we used the free tier with a very long system prompt: we pasted the entire 12-page student handbook into it, so every single question carries thousands of tokens. Some answers took 9 or 10 seconds. We're going to try shortening the prompt to only the sections that matter, and maybe split it by topic, then test again and compare the speed and the accuracy. If accuracy drops, we'll report the trade-off instead of hiding it.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9509,
+      "toxic": 0.0184,
+      "spam": 0.0307
+    },
+    "confidence": 0.8583
+  },
+  {
+    "id": 57,
+    "text": "How do we measure 'helpfulness'? It feels subjective.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9679,
+      "toxic": 0.0147,
+      "spam": 0.0174
+    },
+    "confidence": 0.9059
+  },
+  {
+    "id": 58,
+    "text": "We had the same problem with 'helpfulness' feeling subjective. What worked for us: two people scored every answer separately without talking, using a short written description of each score. Then we only discussed the answers where we disagreed, which was about 1 in 6. Most disagreements were about answers that were correct but too long. We ended up adding 'gets to the point' as its own criterion, and the disagreements dropped a lot.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.95,
+      "toxic": 0.0206,
+      "spam": 0.0294
+    },
+    "confidence": 0.8556
+  },
+  {
+    "id": 59,
+    "text": "3rd year CSE all subject notes + previous papers PDF \ud83d\udcc4 cheapest price in Pune. Instagram @notesbhandar_pune",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0209,
+      "toxic": 0.0107,
+      "spam": 0.9684
+    },
+    "confidence": 0.9075
+  },
+  {
+    "id": 60,
+    "text": "Fun finding: the bot confidently told us our college was founded in 1987. It was 2001. It also invented a famous alumnus \ud83d\ude02",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9682,
+      "toxic": 0.0146,
+      "spam": 0.0172
+    },
+    "confidence": 0.9069
+  },
+  {
+    "id": 61,
+    "text": "Kavitha posting 'fun findings' as if anyone cares. Attention seeker.",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.2634,
+      "toxic": 0.7102,
+      "spam": 0.0264
+    },
+    "confidence": 0.3617
+  },
+  {
+    "id": 62,
+    "text": "URGENT: free workshop on AI evaluation by an industry speaker this Saturday 11 AM, only 80 seats. Register before Thursday: forms.gle/cs307-eval-workshop. Attendance is optional.",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.1649,
+      "toxic": 0.0142,
+      "spam": 0.8209
+    },
+    "confidence": 0.5519
+  },
+  {
+    "id": 63,
+    "text": "Is it okay if our report has more than 10 pages? The tables alone are 6 pages.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9654,
+      "toxic": 0.0151,
+      "spam": 0.0195
+    },
+    "confidence": 0.899
+  },
+  {
+    "id": 64,
+    "text": "Put the full tables in an appendix, ma'am said the main report should be under 8 pages.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9523,
+      "toxic": 0.0223,
+      "spam": 0.0254
+    },
+    "confidence": 0.862
+  },
+  {
+    "id": 65,
+    "text": "Hey everyone, Perplexity Pro is free for a year if you sign up with a student referral. Use my link: perplexity.ai/join/harshit-v, it helps both of us \ud83d\ude4f",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0276,
+      "toxic": 0.0107,
+      "spam": 0.9617
+    },
+    "confidence": 0.8885
+  },
+  {
+    "id": 66,
+    "text": "We asked the bot the same question five times in five separate chats: 'Can I get a refund if I leave the hostel in the middle of the semester?' We got three different answers: a full refund, a partial refund, and no refund. The college rule is a partial refund minus one month. If a student asks once, they have no way of knowing they got the wrong version. So I think consistency, getting the same answer when asked again, should be a rubric item on its own, not part of accuracy.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9656,
+      "toxic": 0.013,
+      "spam": 0.0214
+    },
+    "confidence": 0.8994
+  },
+  {
+    "id": 67,
+    "text": "Agree, we added 'same answer when asked again' as a criterion.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.933,
+      "toxic": 0.0338,
+      "spam": 0.0332
+    },
+    "confidence": 0.809
+  },
+  {
+    "id": 68,
+    "text": "Some people clearly got into CSE through management quota and it shows in their reports. Paying your way in doesn't make you less dumb. This forum should be for serious students only.",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.1619,
+      "toxic": 0.8249,
+      "spam": 0.0132
+    },
+    "confidence": 0.5602
+  },
+  {
+    "id": 69,
+    "text": "Sir, the submission page accepts only PDF. Can we also upload our CSV of results?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.963,
+      "toxic": 0.0149,
+      "spam": 0.0221
+    },
+    "confidence": 0.8921
+  },
+  {
+    "id": 70,
+    "text": "Zip the PDF and CSV together, the page accepts zip as well.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9487,
+      "toxic": 0.0106,
+      "spam": 0.0407
+    },
+    "confidence": 0.8527
+  },
+  {
+    "id": 71,
+    "text": "CS307 end-sem paper available before exam!! 100% real. \u20b9999 only. UPI exam2026@upi and send screenshot.",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0415,
+      "toxic": 0.0194,
+      "spam": 0.9391
+    },
+    "confidence": 0.826
+  },
+  {
+    "id": 72,
+    "text": "Bhai koi batao, Cloudflare token banate waqt kaunsi permissions chahiye? Mera 403 aa raha hai.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9464,
+      "toxic": 0.0165,
+      "spam": 0.0371
+    },
+    "confidence": 0.846
+  },
+  {
+    "id": 73,
+    "text": "Workers AI Read aur Edit dono do, phir naya token banao. 403 tab aata hai jab permission missing ho.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9029,
+      "toxic": 0.0263,
+      "spam": 0.0708
+    },
+    "confidence": 0.7313
+  },
+  {
+    "id": 74,
+    "text": "Our report's main recommendation: the college should not use a chatbot for fees and dates unless it's connected to the official documents.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9453,
+      "toxic": 0.0155,
+      "spam": 0.0392
+    },
+    "confidence": 0.8431
+  },
+  {
+    "id": 75,
+    "text": "Lavanya giving recommendations to the college now \ud83d\ude02 Who do you think you are? You're a nobody, stick to copying from ChatGPT like the rest of your useless group.",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.0303,
+      "toxic": 0.9591,
+      "spam": 0.0106
+    },
+    "confidence": 0.8814
+  },
+  {
+    "id": 76,
+    "text": "Is there a template for the red-teaming section? Not sure how to write up 'the bot was manipulated'.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9666,
+      "toxic": 0.014,
+      "spam": 0.0194
+    },
+    "confidence": 0.9022
+  },
+  {
+    "id": 77,
+    "text": "We wrote: the prompt we used, what the bot did, why it's a problem, and how serious it is (low/medium/high).",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.894,
+      "toxic": 0.0412,
+      "spam": 0.0648
+    },
+    "confidence": 0.7076
+  },
+  {
+    "id": 78,
+    "text": "Survey update: 47 responses so far, thank you all! 3 more needed \ud83d\ude4f",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.8623,
+      "toxic": 0.0377,
+      "spam": 0.1
+    },
+    "confidence": 0.6325
+  },
+  {
+    "id": 79,
+    "text": "Win iPhone 17 Pro \ud83c\udf81 Just enter your name, college ID and Aadhaar number: iphone-win-india.in. 100 winners daily!",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.009,
+      "toxic": 0.0086,
+      "spam": 0.9824
+    },
+    "confidence": 0.948
+  },
+  {
+    "id": 80,
+    "text": "Ma'am, will the viva for assignment 4 be individual? Some of us did the testing and others did the writing.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9588,
+      "toxic": 0.02,
+      "spam": 0.0212
+    },
+    "confidence": 0.8801
+  },
+  {
+    "id": 81,
+    "text": "Individual. Everyone should be able to explain the whole report.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9301,
+      "toxic": 0.0327,
+      "spam": 0.0372
+    },
+    "confidence": 0.8012
+  },
+  {
+    "id": 82,
+    "text": "Update: after shortening the prompt our bot replies in 2 seconds instead of 9. Thanks for the suggestion Farhan.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9177,
+      "toxic": 0.0378,
+      "spam": 0.0445
+    },
+    "confidence": 0.7684
+  },
+  {
+    "id": 83,
+    "text": "Farhan is literally sir's pet, answers everything so he gets marks. Chamcha.",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.3168,
+      "toxic": 0.6617,
+      "spam": 0.0215
+    },
+    "confidence": 0.3079
+  },
+  {
+    "id": 84,
+    "text": "Got a new token, everything works now. Also learned to keep a backup of .env somewhere safe \ud83d\ude05",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9607,
+      "toxic": 0.0161,
+      "spam": 0.0232
+    },
+    "confidence": 0.8857
+  },
+  {
+    "id": 85,
+    "text": "We found something odd while testing. When we asked about late-night lab access as 'a girl student', the bot told us to avoid staying late and to always go with a friend. As 'a boy student', it just explained the lab timings and the sign-in rule. The question was otherwise word for word the same, and we repeated it three times with the same result. Is this worth reporting as bias? It might be well-meant, but it's still different advice based only on gender.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9421,
+      "toxic": 0.0425,
+      "spam": 0.0154
+    },
+    "confidence": 0.8344
+  },
+  {
+    "id": 86,
+    "text": "Definitely. That's an important finding. Show the exact prompts and answers.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9356,
+      "toxic": 0.0278,
+      "spam": 0.0366
+    },
+    "confidence": 0.816
+  },
+  {
+    "id": 87,
+    "text": "Want to study MS in USA/Germany? \ud83c\udf93 Free counselling, 100% visa success. Call 99000 44556 or visit studyabroad-experts.in",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0113,
+      "toxic": 0.007,
+      "spam": 0.9817
+    },
+    "confidence": 0.9458
+  },
+  {
+    "id": 88,
+    "text": "Thanks to everyone who shared failures here. This thread taught me more about evaluation than the slides did \ud83d\ude42",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9269,
+      "toxic": 0.0403,
+      "spam": 0.0328
+    },
+    "confidence": 0.7927
+  },
+  {
+    "id": 89,
+    "text": "Sir, I submitted the wrong file by mistake (the draft). Can I resubmit before the deadline?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9616,
+      "toxic": 0.0178,
+      "spam": 0.0206
+    },
+    "confidence": 0.8882
+  },
+  {
+    "id": 90,
+    "text": "Yes, the latest upload before the deadline counts.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9451,
+      "toxic": 0.0244,
+      "spam": 0.0305
+    },
+    "confidence": 0.842
+  },
+  {
+    "id": 91,
+    "text": "If anyone wants to tell Nikita what they think of her 'bias' report, she sits in the last row of lab 2 every Tuesday \ud83d\ude09",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.7854,
+      "toxic": 0.1888,
+      "spam": 0.0258
+    },
+    "confidence": 0.4799
+  },
+  {
+    "id": 92,
+    "text": "For the bias test, should we use the same question with only the gender changed? Or different questions?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9525,
+      "toxic": 0.0298,
+      "spam": 0.0177
+    },
+    "confidence": 0.8626
+  },
+  {
+    "id": 93,
+    "text": "Final report submitted! \ud83c\udf89 Main finding: the chatbot was about 70% correct on factual questions but sounded 95% confident on all of them, including the wrong ones. That gap is the real problem, not the 70% itself. Our recommendation is that if the college uses a bot, it must show where each answer came from, so a student can check it. Thanks to everyone in this thread who shared their failures, we compared a lot of ours against yours.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9483,
+      "toxic": 0.0215,
+      "spam": 0.0302
+    },
+    "confidence": 0.851
+  },
+  {
+    "id": 94,
+    "text": "Pro tip for the viva, from someone who was terrified last time: practise explaining your rubric out loud, because that's what sir asks about most. Know why each criterion is there and what you'd change. Also be ready to explain one failure in detail. I've compiled 100 likely assignment 4 viva questions with model answers from seniors. Free sample of 10 at cs307viva.in, and the full PDF is just \u20b9149 for batchmates \ud83d\ude42",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.1314,
+      "toxic": 0.0142,
+      "spam": 0.8544
+    },
+    "confidence": 0.6212
+  },
+  {
+    "id": 95,
+    "text": "Final report submitted! Main finding: the chatbot was 70% correct on facts but 95% confident, which is the real problem.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9607,
+      "toxic": 0.018,
+      "spam": 0.0213
+    },
+    "confidence": 0.8856
+  },
+  {
+    "id": 96,
+    "text": "70% correct and she's celebrating with a party emoji \ud83d\ude02 Honestly, such low standards. I read your report, Riya, and it's exactly what I expected from someone like you: lots of nice-looking tables, nothing behind them. No wonder your batch has the worst placement record in the college. Maybe stop posting and just stay quiet next time.",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.1743,
+      "toxic": 0.8142,
+      "spam": 0.0115
+    },
+    "confidence": 0.5401
+  },
+  {
+    "id": 97,
+    "text": "Ma'am, any update on when assignment 5 will be released? Want to plan around the hackathon.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9606,
+      "toxic": 0.0181,
+      "spam": 0.0213
+    },
+    "confidence": 0.8851
+  },
+  {
+    "id": 98,
+    "text": "Get Google, Microsoft & IBM AI certificates in 7 days \ud83c\udfc6 guaranteed placement support. Only \u20b9999, offer ends tonight: aicoursehub.in/cs307",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0128,
+      "toxic": 0.0073,
+      "spam": 0.9799
+    },
+    "confidence": 0.9406
+  },
+  {
+    "id": 99,
+    "text": "Shut up Anmol, nobody wants updates on your useless bot. Go cry somewhere else.",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.0202,
+      "toxic": 0.968,
+      "spam": 0.0118
+    },
+    "confidence": 0.9063
+  },
+  {
+    "id": 100,
+    "text": "Instant education loan up to \u20b95 lakh without documents \u2705 approval in 10 minutes. WhatsApp 90000 77889 now!",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0079,
+      "toxic": 0.0071,
+      "spam": 0.985
+    },
+    "confidence": 0.9556
+  }
+]

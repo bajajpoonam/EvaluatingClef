@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "text": "Ma'am, is it okay if we use Claude for the frontend and Codex for the backend logic, or should the whole artifact be built with one tool?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9686,
+      "toxic": 0.007,
+      "spam": 0.0244
+    },
+    "confidence": 0.9082
+  },
+  {
+    "id": 2,
+    "text": "Submitted my artifact: a timetable clash checker for our dept. Claude made the UI in like 10 mins but I spent 2 hours fixing the CSV parsing. Link is in my submission.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.8386,
+      "toxic": 0.0052,
+      "spam": 0.1562
+    },
+    "confidence": 0.5916
+  },
+  {
+    "id": 3,
+    "text": "\ud83d\udd25\ud83d\udd25 GET YOUR ASSIGNMENTS DONE BY EXPERTS \ud83d\udd25\ud83d\udd25 Claude/Codex/ML projects, plagiarism free, 100% marks guaranteed. WhatsApp +91 90000 12345. Special discount for CS307 students!!",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0162,
+      "toxic": 0.0163,
+      "spam": 0.9675
+    },
+    "confidence": 0.9049
+  },
+  {
+    "id": 4,
+    "text": "Does the reflection doc need to include the prompts we used? Mine is around 40 prompts, that seems like too much to paste.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9536,
+      "toxic": 0.0176,
+      "spam": 0.0288
+    },
+    "confidence": 0.8658
+  },
+  {
+    "id": 5,
+    "text": "@Rohit your expense splitter is really clean. One suggestion: there's a rounding error when splitting \u20b9100 three ways, it shows 33.33 x 3 = 99.99.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.8688,
+      "toxic": 0.0078,
+      "spam": 0.1234
+    },
+    "confidence": 0.6552
+  },
+  {
+    "id": 6,
+    "text": "Rohit's project is copy-paste from GitHub, everyone knows. Shameless guy, and sir still gives him marks. Pathetic.",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.0661,
+      "toxic": 0.912,
+      "spam": 0.0219
+    },
+    "confidence": 0.755
+  },
+  {
+    "id": 7,
+    "text": "Bhai kisi ko Codex ka access mila? My college email isn't working for the student plan.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9755,
+      "toxic": 0.0035,
+      "spam": 0.021
+    },
+    "confidence": 0.9281
+  },
+  {
+    "id": 8,
+    "text": "Ma'am, is a deadline extension possible? Our hostel wifi was down from Thursday night till Saturday, the warden can confirm.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9488,
+      "toxic": 0.0178,
+      "spam": 0.0334
+    },
+    "confidence": 0.8525
+  },
+  {
+    "id": 9,
+    "text": "I found that Claude kept adding features I didn't ask for. Telling it \"do only X, nothing else\" at the start helped a lot.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9758,
+      "toxic": 0.0044,
+      "spam": 0.0198
+    },
+    "confidence": 0.9289
+  },
+  {
+    "id": 10,
+    "text": "Join our Telegram group for FREE Claude Pro & ChatGPT Plus accounts \ud83e\udd11 only \u20b9199 lifetime. t.me/aitoolsdeal_india (limited slots)",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0102,
+      "toxic": 0.0147,
+      "spam": 0.9751
+    },
+    "confidence": 0.9268
+  },
+  {
+    "id": 11,
+    "text": "Can we deploy on Vercel or does it have to run locally? Mine needs an API key and I don't want to expose it publicly.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9146,
+      "toxic": 0.0055,
+      "spam": 0.0799
+    },
+    "confidence": 0.7644
+  },
+  {
+    "id": 12,
+    "text": "Good point Sneha made in the lab: if the artifact stores data in localStorage, mention it in the reflection, since the data stays only in your browser.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9778,
+      "toxic": 0.0036,
+      "spam": 0.0186
+    },
+    "confidence": 0.9346
+  },
+  {
+    "id": 13,
+    "text": "Seriously who asks these dumb questions? Read the assignment PDF before posting, idiots. Wasting everyone's time.",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.0523,
+      "toxic": 0.9239,
+      "spam": 0.0238
+    },
+    "confidence": 0.7854
+  },
+  {
+    "id": 14,
+    "text": "Honestly I think this assignment is too easy for 15 marks, the AI does 80% of the work. Grading should focus more on the reflection part.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9762,
+      "toxic": 0.0084,
+      "spam": 0.0154
+    },
+    "confidence": 0.9298
+  },
+  {
+    "id": 15,
+    "text": "My quiz app for GATE prep is up. Feedback welcome, especially on the scoring logic \u2014 not sure the negative marking works right.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.6502,
+      "toxic": 0.0043,
+      "spam": 0.3455
+    },
+    "confidence": 0.3132
+  },
+  {
+    "id": 16,
+    "text": "Tried it Ankit, the negative marking subtracts 1/3 even for unattempted questions. Check the condition where you compute the score.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9852,
+      "toxic": 0.0028,
+      "spam": 0.012
+    },
+    "confidence": 0.9561
+  },
+  {
+    "id": 17,
+    "text": "Earn \u20b95000 daily from home using AI tools!! No investment. Students also eligible. DM me or visit earnwithai-india.in",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0146,
+      "toxic": 0.0167,
+      "spam": 0.9687
+    },
+    "confidence": 0.9084
+  },
+  {
+    "id": 18,
+    "text": "Sir, the rubric says \"originality\" \u2014 does a to-do app count as original if we add a feature like voice input?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9461,
+      "toxic": 0.0225,
+      "spam": 0.0314
+    },
+    "confidence": 0.845
+  },
+  {
+    "id": 19,
+    "text": "Bro your app looks like it was made by a 5th class kid lol. Delete it and save us the embarrassment \ud83e\udd21",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.2819,
+      "toxic": 0.6382,
+      "spam": 0.0799
+    },
+    "confidence": 0.2398
+  },
+  {
+    "id": 20,
+    "text": "Thank you ma'am for the extra session on prompting yesterday. The bit about giving examples of the output format was super useful.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9837,
+      "toxic": 0.0053,
+      "spam": 0.011
+    },
+    "confidence": 0.9516
+  },
+  {
+    "id": 21,
+    "text": "Codex wrote my tests but half of them were testing the wrong thing. Lesson learned: read the generated tests, don't just see green \u2705 and move on.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9808,
+      "toxic": 0.004,
+      "spam": 0.0152
+    },
+    "confidence": 0.9434
+  },
+  {
+    "id": 22,
+    "text": "Is anyone else getting \"rate limit exceeded\" on the free tier? It's been blocking me since afternoon.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9173,
+      "toxic": 0.0063,
+      "spam": 0.0764
+    },
+    "confidence": 0.7709
+  },
+  {
+    "id": 23,
+    "text": "Yes same, try after midnight, it reset for me around 12:30.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9279,
+      "toxic": 0.0066,
+      "spam": 0.0655
+    },
+    "confidence": 0.7981
+  },
+  {
+    "id": 24,
+    "text": "Subscribe to my YouTube channel \"TechWithRaju\" for the full solution of CS307 assignment 3 step by step!! Link in bio. Like share subscribe \ud83d\ude4f\ud83d\ude4f",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0291,
+      "toxic": 0.0243,
+      "spam": 0.9466
+    },
+    "confidence": 0.8461
+  },
+  {
+    "id": 25,
+    "text": "Our group made a canteen menu voting app. Problem: anyone can vote 100 times by refreshing. Any simple way to stop this without a login?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9217,
+      "toxic": 0.0075,
+      "spam": 0.0708
+    },
+    "confidence": 0.7818
+  },
+  {
+    "id": 26,
+    "text": "Use a localStorage flag for basic prevention, it's not secure but for a class demo it's fine. Or ask for roll number and check duplicates.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9738,
+      "toxic": 0.0029,
+      "spam": 0.0233
+    },
+    "confidence": 0.9231
+  },
+  {
+    "id": 27,
+    "text": "Girls in this class only get good marks because sir is soft on them. Ishita's project is average at best.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9495,
+      "toxic": 0.0407,
+      "spam": 0.0098
+    },
+    "confidence": 0.8549
+  },
+  {
+    "id": 28,
+    "text": "Sharing a tip: ask Claude to explain the code it wrote line by line before you submit. Viva mein pakde jaoge otherwise \ud83d\ude05",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.8727,
+      "toxic": 0.0052,
+      "spam": 0.1221
+    },
+    "confidence": 0.6647
+  },
+  {
+    "id": 29,
+    "text": "Is the viva individual or group-wise? Some of us did most of the work and others just watched.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9606,
+      "toxic": 0.0178,
+      "spam": 0.0216
+    },
+    "confidence": 0.8854
+  },
+  {
+    "id": 30,
+    "text": "^ this. In my group one member didn't even open the repo. How do we report this without drama?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9628,
+      "toxic": 0.0114,
+      "spam": 0.0258
+    },
+    "confidence": 0.8917
+  },
+  {
+    "id": 31,
+    "text": "@Karan we all know you're the one who didn't open the repo. Useless fellow, always free-riding. Get lost.",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.0274,
+      "toxic": 0.9553,
+      "spam": 0.0173
+    },
+    "confidence": 0.8705
+  },
+  {
+    "id": 32,
+    "text": "Can we use Gemini or other models, or strictly Claude/Codex? The assignment title says Claude/Codex but the PDF says \"any AI coding assistant\".",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9683,
+      "toxic": 0.0109,
+      "spam": 0.0208
+    },
+    "confidence": 0.9073
+  },
+  {
+    "id": 33,
+    "text": "URGENT: CS307 end-sem question paper leaked!! Get it before it's removed. \u20b9499 only. Pay on UPI 9000012345@upi and send screenshot.",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0921,
+      "toxic": 0.0614,
+      "spam": 0.8465
+    },
+    "confidence": 0.5931
+  },
+  {
+    "id": 34,
+    "text": "Sir, the submission link on Moodle is showing \"closed\" even though the deadline is tonight 11:59 PM.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9862,
+      "toxic": 0.0039,
+      "spam": 0.0099
+    },
+    "confidence": 0.9592
+  },
+  {
+    "id": 35,
+    "text": "It's open now, please refresh. It was a timezone setting issue on the course page.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9494,
+      "toxic": 0.0041,
+      "spam": 0.0465
+    },
+    "confidence": 0.8552
+  },
+  {
+    "id": 36,
+    "text": "My artifact helps my mom track her tailoring orders. She actually uses it now! Never thought an assignment would be useful at home.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.8248,
+      "toxic": 0.0048,
+      "spam": 0.1704
+    },
+    "confidence": 0.564
+  },
+  {
+    "id": 37,
+    "text": "That's amazing Divya \ud83d\udc4f Maybe add a WhatsApp reminder for due dates? Could be a nice extension.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9079,
+      "toxic": 0.0033,
+      "spam": 0.0888
+    },
+    "confidence": 0.7484
+  },
+  {
+    "id": 38,
+    "text": "Doubt: if Claude generates code that's similar to some open-source project, is that plagiarism? How do we cite it?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9703,
+      "toxic": 0.0071,
+      "spam": 0.0226
+    },
+    "confidence": 0.9131
+  },
+  {
+    "id": 39,
+    "text": "Good question. Mention the tool and your prompts in the reflection, and if you knowingly used a library or snippet, cite it like any other source.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9844,
+      "toxic": 0.0033,
+      "spam": 0.0123
+    },
+    "confidence": 0.9539
+  },
+  {
+    "id": 40,
+    "text": "Cheap laptops for engineering students!! i5 12th gen just \u20b918,999. Limited stock. Call Shree Computers, Shivaji Nagar \ud83d\udcde 90000 54321",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0185,
+      "toxic": 0.0243,
+      "spam": 0.9572
+    },
+    "confidence": 0.8758
+  },
+  {
+    "id": 41,
+    "text": "This forum is full of sir's chamchas. Everybody praising every useless app. Fake people.",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.1268,
+      "toxic": 0.8256,
+      "spam": 0.0476
+    },
+    "confidence": 0.55
+  },
+  {
+    "id": 42,
+    "text": "I'm not sure using AI for assignments is actually teaching us anything. I learned more debugging the output than from the tool itself.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9833,
+      "toxic": 0.0055,
+      "spam": 0.0112
+    },
+    "confidence": 0.9504
+  },
+  {
+    "id": 43,
+    "text": "Disagree a bit \u2014 knowing what to ask and how to check the output is itself a skill. Industry is going this way anyway.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9783,
+      "toxic": 0.0047,
+      "spam": 0.017
+    },
+    "confidence": 0.936
+  },
+  {
+    "id": 44,
+    "text": "My Codex output used a deprecated pandas function (append). Fixed it with concat. Posting in case anyone else hits the same error.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9005,
+      "toxic": 0.0069,
+      "spam": 0.0926
+    },
+    "confidence": 0.7293
+  },
+  {
+    "id": 45,
+    "text": "Thanks Vivek, was stuck on exactly this for an hour \ud83d\ude4f",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9216,
+      "toxic": 0.0153,
+      "spam": 0.0631
+    },
+    "confidence": 0.7804
+  },
+  {
+    "id": 46,
+    "text": "\ud83d\udcb0 Crypto signals group \ud83d\udcb0 90% accuracy, students making \u20b950k/month. Join fast before closing: bit.ly/crypto-signal-vip",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0113,
+      "toxic": 0.0147,
+      "spam": 0.974
+    },
+    "confidence": 0.9236
+  },
+  {
+    "id": 47,
+    "text": "Ma'am, will the marks be uploaded before the Diwali break?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9743,
+      "toxic": 0.0102,
+      "spam": 0.0155
+    },
+    "confidence": 0.9243
+  },
+  {
+    "id": 48,
+    "text": "Whoever gave my project 2/10 in peer review, you're a jealous loser. I know who you are and I'll see you outside the lab.",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.0384,
+      "toxic": 0.9447,
+      "spam": 0.0169
+    },
+    "confidence": 0.8414
+  },
+  {
+    "id": 49,
+    "text": "Peer review feedback was helpful, thanks to whoever pointed out the mobile layout breaking. Fixed it.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9793,
+      "toxic": 0.0041,
+      "spam": 0.0166
+    },
+    "confidence": 0.939
+  },
+  {
+    "id": 50,
+    "text": "Can someone explain what \"artifact\" means here? Is it just the code or a deployed thing people can open?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9369,
+      "toxic": 0.0281,
+      "spam": 0.035
+    },
+    "confidence": 0.8196
+  },
+  {
+    "id": 51,
+    "text": "From the PDF: artifact = a working, shareable thing (web page, tool, small app) + a 1-page reflection. Code alone isn't enough.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.5495,
+      "toxic": 0.0066,
+      "spam": 0.4439
+    },
+    "confidence": 0.2486
+  },
+  {
+    "id": 52,
+    "text": "Built a Marathi\u2013English vocabulary flashcard app. Claude handled the Devanagari fonts without issues, which surprised me.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.5745,
+      "toxic": 0.0081,
+      "spam": 0.4174
+    },
+    "confidence": 0.2566
+  },
+  {
+    "id": 53,
+    "text": "Nice! Does it do audio pronunciation? The browser speech API supports mr-IN I think.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.8602,
+      "toxic": 0.0246,
+      "spam": 0.1152
+    },
+    "confidence": 0.6309
+  },
+  {
+    "id": 54,
+    "text": "Need help with your assignment? Our PhD experts do Python, Java, ML, AI projects. Fast delivery in 24 hours. Visit www.assignmenthelpzone.co.in or mail help@assignmenthelpzone.co.in",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0157,
+      "toxic": 0.0148,
+      "spam": 0.9695
+    },
+    "confidence": 0.9105
+  },
+  {
+    "id": 55,
+    "text": "Ankit's GATE quiz app is trash just like his GATE score will be \ud83d\ude02\ud83d\ude02",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.1026,
+      "toxic": 0.8625,
+      "spam": 0.0349
+    },
+    "confidence": 0.6335
+  },
+  {
+    "id": 56,
+    "text": "Request: can the TA share a sample of a good reflection from last year? Not sure what level of detail is expected.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9759,
+      "toxic": 0.0071,
+      "spam": 0.017
+    },
+    "confidence": 0.9292
+  },
+  {
+    "id": 57,
+    "text": "Sir, I submitted the wrong link by mistake (my old repo). Can you allow a resubmission?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.965,
+      "toxic": 0.0037,
+      "spam": 0.0313
+    },
+    "confidence": 0.8984
+  },
+  {
+    "id": 58,
+    "text": "Is it fine if our artifact uses a free public API (like weather)? Or should everything be self-contained?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9321,
+      "toxic": 0.0248,
+      "spam": 0.0431
+    },
+    "confidence": 0.8071
+  },
+  {
+    "id": 59,
+    "text": "My experience: Claude is better at explaining, Codex felt faster for refactoring. Both hallucinated a library function once.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.8759,
+      "toxic": 0.0082,
+      "spam": 0.1159
+    },
+    "confidence": 0.671
+  },
+  {
+    "id": 60,
+    "text": "Agree. Codex invented a \"pd.read_html_table\" function for me \ud83d\ude02 Always run the code.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9053,
+      "toxic": 0.0053,
+      "spam": 0.0894
+    },
+    "confidence": 0.7414
+  },
+  {
+    "id": 61,
+    "text": "Shut up Meera, nobody cares about your \"experience\". Topper behaviour as usual \ud83d\ude44",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.0265,
+      "toxic": 0.9572,
+      "spam": 0.0163
+    },
+    "confidence": 0.8759
+  },
+  {
+    "id": 62,
+    "text": "Our hostel group made an attendance tracker for the mess. Uploaded screenshots to the drive folder as instructed.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.8509,
+      "toxic": 0.0087,
+      "spam": 0.1404
+    },
+    "confidence": 0.6157
+  },
+  {
+    "id": 63,
+    "text": "Hello dear friends, I am selling original notes of all subjects 3rd year CSE. PDF available at low price. Contact on Instagram @notes.wala.bhaiya",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0223,
+      "toxic": 0.0229,
+      "spam": 0.9548
+    },
+    "confidence": 0.8689
+  },
+  {
+    "id": 64,
+    "text": "Ma'am, our artifact is for visually impaired users (screen-reader friendly bus timings). Can we get extra time to test it with actual users from the NGO?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.8431,
+      "toxic": 0.0057,
+      "spam": 0.1512
+    },
+    "confidence": 0.6004
+  },
+  {
+    "id": 65,
+    "text": "That's a great project, Arjun. Happy to help test with NVDA if you need another tester.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.8857,
+      "toxic": 0.0063,
+      "spam": 0.108
+    },
+    "confidence": 0.6943
+  },
+  {
+    "id": 66,
+    "text": "Kya reflection Hindi mein likh sakte hain? My English writing is not that good but I can explain properly in Hindi.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9778,
+      "toxic": 0.0056,
+      "spam": 0.0166
+    },
+    "confidence": 0.9346
+  },
+  {
+    "id": 67,
+    "text": "The rubric weightage is unclear. 40% artifact, 40% reflection, 20% viva \u2014 is that correct? The slides said something different.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9556,
+      "toxic": 0.0185,
+      "spam": 0.0259
+    },
+    "confidence": 0.8712
+  },
+  {
+    "id": 68,
+    "text": "The grading for assignment 2 was unfair in my opinion, the same output got different marks in different batches. Please clarify the re-evaluation process.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9842,
+      "toxic": 0.0072,
+      "spam": 0.0086
+    },
+    "confidence": 0.9531
+  },
+  {
+    "id": 69,
+    "text": "TA doesn't know anything himself, how will he grade AI projects? Clueless fellow should go back to school.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9098,
+      "toxic": 0.0773,
+      "spam": 0.0129
+    },
+    "confidence": 0.7508
+  },
+  {
+    "id": 70,
+    "text": "Tip for anyone using Claude artifacts: ask it to add a \"reset data\" button. Saved me during the demo when the test data got messed up.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.8007,
+      "toxic": 0.0054,
+      "spam": 0.1939
+    },
+    "confidence": 0.5182
+  },
+  {
+    "id": 71,
+    "text": "FREE iPhone 17 giveaway for college students \ud83c\udf89 Just fill the form with your name, college ID and Aadhaar number: forms-giveaway-india.com/iphone",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0204,
+      "toxic": 0.0221,
+      "spam": 0.9575
+    },
+    "confidence": 0.8765
+  },
+  {
+    "id": 72,
+    "text": "Our team used Codex to convert old C++ lab programs into a small web visualizer for sorting algorithms. Feedback welcome!",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.7414,
+      "toxic": 0.0054,
+      "spam": 0.2532
+    },
+    "confidence": 0.4208
+  },
+  {
+    "id": 73,
+    "text": "Very nice, but the bubble sort animation is too fast to follow. Maybe add a speed slider?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9417,
+      "toxic": 0.0232,
+      "spam": 0.0351
+    },
+    "confidence": 0.8328
+  },
+  {
+    "id": 74,
+    "text": "Is there a word limit for the reflection? I wrote 1100 words, feels too long.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9636,
+      "toxic": 0.0134,
+      "spam": 0.023
+    },
+    "confidence": 0.894
+  },
+  {
+    "id": 75,
+    "text": "Ma'am said max 1 page, so around 500 words.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9611,
+      "toxic": 0.0052,
+      "spam": 0.0337
+    },
+    "confidence": 0.8874
+  },
+  {
+    "id": 76,
+    "text": "Everyone from that side of the hostel copies, it's in their blood. Don't trust their \"original\" projects.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.7578,
+      "toxic": 0.1736,
+      "spam": 0.0686
+    },
+    "confidence": 0.4137
+  },
+  {
+    "id": 77,
+    "text": "Sir, what happens if our deployed link stops working after submission (free hosting expires)? Will we lose marks?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9699,
+      "toxic": 0.0098,
+      "spam": 0.0203
+    },
+    "confidence": 0.9119
+  },
+  {
+    "id": 78,
+    "text": "I shared a short screen recording as a backup in case the link fails. Maybe others should do the same.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.8956,
+      "toxic": 0.0045,
+      "spam": 0.0999
+    },
+    "confidence": 0.7181
+  },
+  {
+    "id": 79,
+    "text": "\ud83d\udc49 Get 10,000 Instagram followers in 1 day \ud83d\udc48 Real & active. Best for students starting tech pages. WhatsApp 90000 67890",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0122,
+      "toxic": 0.0153,
+      "spam": 0.9725
+    },
+    "confidence": 0.9192
+  },
+  {
+    "id": 80,
+    "text": "I'm struggling honestly. Everyone is posting cool apps and mine barely works. Is it okay to submit something simple if the reflection is honest?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9461,
+      "toxic": 0.0218,
+      "spam": 0.0321
+    },
+    "confidence": 0.8448
+  },
+  {
+    "id": 81,
+    "text": "Absolutely okay. Sir said in class that the reflection about what failed counts a lot. Don't stress, simple + honest > fancy + copied.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.964,
+      "toxic": 0.0091,
+      "spam": 0.0269
+    },
+    "confidence": 0.8952
+  },
+  {
+    "id": 82,
+    "text": "Thank you Neha, that really helps \ud83d\ude42",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9315,
+      "toxic": 0.0132,
+      "spam": 0.0553
+    },
+    "confidence": 0.8063
+  },
+  {
+    "id": 83,
+    "text": "lol Kunal still crying about his project. Maybe engineering isn't for you bro, try BA.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9349,
+      "toxic": 0.0413,
+      "spam": 0.0238
+    },
+    "confidence": 0.8144
+  },
+  {
+    "id": 84,
+    "text": "Doubt: Claude gave different code for the same prompt twice. Which one should we submit, and should we mention it?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9414,
+      "toxic": 0.0246,
+      "spam": 0.034
+    },
+    "confidence": 0.8319
+  },
+  {
+    "id": 85,
+    "text": "Submit the one you tested and understand. Mentioning the variation in your reflection is actually a good insight.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9734,
+      "toxic": 0.0034,
+      "spam": 0.0232
+    },
+    "confidence": 0.9219
+  },
+  {
+    "id": 86,
+    "text": "Part time job for students: typing work, \u20b9800/day, no target. Registration fee only \u20b9299. Reply \"INTERESTED\" with your number.",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0317,
+      "toxic": 0.0252,
+      "spam": 0.9431
+    },
+    "confidence": 0.8366
+  },
+  {
+    "id": 87,
+    "text": "Can we work on an existing personal project and extend it with AI, or must it be new?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9314,
+      "toxic": 0.024,
+      "spam": 0.0446
+    },
+    "confidence": 0.8052
+  },
+  {
+    "id": 88,
+    "text": "Ankit, sorry for that comment about your app and your GATE score, it was uncalled for. The app is actually good, just that one bug.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9082,
+      "toxic": 0.0162,
+      "spam": 0.0756
+    },
+    "confidence": 0.7462
+  },
+  {
+    "id": 89,
+    "text": "Our college fest registration form artifact is live, please test and break it before Friday \ud83d\ude4f",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.452,
+      "toxic": 0.0048,
+      "spam": 0.5432
+    },
+    "confidence": 0.249
+  },
+  {
+    "id": 90,
+    "text": "Found a bug: entering an emoji in the name field crashes the confirmation page. \ud83d\ude05",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.941,
+      "toxic": 0.0082,
+      "spam": 0.0508
+    },
+    "confidence": 0.8322
+  },
+  {
+    "id": 91,
+    "text": "Who made this garbage form? Typical mechanical branch people trying to code. Stick to your lathe machines \ud83d\ude02",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.3616,
+      "toxic": 0.6014,
+      "spam": 0.037
+    },
+    "confidence": 0.2407
+  },
+  {
+    "id": 92,
+    "text": "Does using AI-generated images in the artifact need attribution too?",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9688,
+      "toxic": 0.0057,
+      "spam": 0.0255
+    },
+    "confidence": 0.909
+  },
+  {
+    "id": 93,
+    "text": "Will there be a session on how to evaluate AI-generated code for security issues? Seems important for the next assignment.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9385,
+      "toxic": 0.0266,
+      "spam": 0.0349
+    },
+    "confidence": 0.8241
+  },
+  {
+    "id": 94,
+    "text": "CS307 complete solved assignments + viva answers available!! 100% working code. DM on telegram @cs307_solutions_hub. Pay after delivery.",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0325,
+      "toxic": 0.0254,
+      "spam": 0.9421
+    },
+    "confidence": 0.8339
+  },
+  {
+    "id": 95,
+    "text": "Sir, please consider allowing pair submissions next time, 4-member groups are hard to coordinate.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9899,
+      "toxic": 0.003,
+      "spam": 0.0071
+    },
+    "confidence": 0.9699
+  },
+  {
+    "id": 96,
+    "text": "Finally submitted at 11:57 PM \ud83d\ude02 Never doing last-minute again (I say this every semester).",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9752,
+      "toxic": 0.0066,
+      "spam": 0.0182
+    },
+    "confidence": 0.9272
+  },
+  {
+    "id": 97,
+    "text": "If you can't even set up an API key you shouldn't be in CSE. Stop spamming the forum with your stupid doubts, dumbo.",
+    "choice": "toxic",
+    "probabilities": {
+      "acceptable": 0.0436,
+      "toxic": 0.936,
+      "spam": 0.0204
+    },
+    "confidence": 0.8177
+  },
+  {
+    "id": 98,
+    "text": "Thanks to everyone who answered doubts here, this thread was more useful than the lectures honestly \ud83d\ude04",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9803,
+      "toxic": 0.0055,
+      "spam": 0.0142
+    },
+    "confidence": 0.9418
+  },
+  {
+    "id": 99,
+    "text": "Hey guys check out my startup app, we are giving \u20b9100 Paytm cash for every signup using my referral code RAJU100 \ud83d\ude0a Link: refer-n-earn.app/RAJU100",
+    "choice": "spam",
+    "probabilities": {
+      "acceptable": 0.0099,
+      "toxic": 0.0128,
+      "spam": 0.9773
+    },
+    "confidence": 0.933
+  },
+  {
+    "id": 100,
+    "text": "Ma'am, any update on when the next assignment will be released? Want to plan around mid-sems.",
+    "choice": "acceptable",
+    "probabilities": {
+      "acceptable": 0.9833,
+      "toxic": 0.0062,
+      "spam": 0.0105
+    },
+    "confidence": 0.9506
+  }
+]
